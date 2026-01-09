@@ -127,11 +127,3 @@ python miniproject_ADHD.py
 * Supports multi-class classification
 
 ---
-
-
-* ✔️ Add badges (Python, ML, SHAP)
-* ✔️ Create a `requirements.txt`
-* ✔️ Clean the code for production
-* ✔️ Prepare a **project abstract for GitHub**
-
-Just tell me 👍
